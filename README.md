@@ -11,3 +11,4 @@ To host a competion, send an email to info@superkidscodeclub.com so I can set up
 6. Your competition rules
 7. Competition starter packs
 8. When winners will be announced
+9. What language to write entries in
